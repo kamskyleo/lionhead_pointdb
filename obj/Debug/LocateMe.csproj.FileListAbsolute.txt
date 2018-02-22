@@ -1,0 +1,17 @@
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\LocateMe.dll.config
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\LocateMe.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\LocateMe.pdb
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\Mono.Security.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\Npgsql.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\Npgsql.xml
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\de\Npgsql.resources.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\es\Npgsql.resources.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\fi\Npgsql.resources.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\fr\Npgsql.resources.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\ja\Npgsql.resources.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\zh-CN\Npgsql.resources.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\obj\Debug\LocateMe.dll
+c:\users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\obj\Debug\LocateMe.pdb
+C:\Users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\obj\Debug\LocateMe.csprojResolveAssemblyReference.cache
+C:\Users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\App_Data\Database1.mdf
+C:\Users\carnassale\documents\visual studio 2017\Projects\LocateMe\LocateMe\bin\App_Data\Database1_log.ldf
